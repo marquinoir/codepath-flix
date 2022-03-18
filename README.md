@@ -15,9 +15,9 @@
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/RIjBxhC.gif" height=270> <br>
+<img src="https://i.imgur.com/RIjBxhC.gif"> <br>
 
 ### Notes
-Describe any challenges 
+Describe any challenges : HackMD is timing out to upload imgur// gif might not display
 The collection view is timing out and not showing.
 
