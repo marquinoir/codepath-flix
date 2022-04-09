@@ -15,7 +15,8 @@
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/RIjBxhC.gif"> <br>
+![](https://i.imgur.com/weiAEtZ.gif)
+
 
 ### Notes
 Describe any challenges : The collection view is timing out and not showing.
