@@ -18,6 +18,5 @@
 <img src="https://i.imgur.com/RIjBxhC.gif"> <br>
 
 ### Notes
-Describe any challenges : HackMD is timing out to upload imgur// gif might not display
-The collection view is timing out and not showing.
+Describe any challenges : The collection view is timing out and not showing.
 
